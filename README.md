@@ -46,9 +46,9 @@ Steps to build the web-based Language Translator application Python project:
 
 
 
-1.	install the library
-    To install the library, we use pip install to the command prompt:
-•	pip install googletrans
+    1.	install the library
+           To install the library, we use pip install to the command prompt:
+    •	    pip install googletrans
 
 googletrans is a module to translate text. We import the Translator from googletrans, which is used to do translations. We also import LANGUAGES from googletrans which lists all supported languages in a Python dictionary.
 
