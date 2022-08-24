@@ -34,7 +34,7 @@ Steps to build the web-based Language Translator application Python project:
 8.	show text in destination language
 
 1.	install the library
-To install the library, we use pip install to the command prompt:
+    To install the library, we use pip install to the command prompt:
 •	pip install googletrans
 
 googletrans is a module to translate text. We import the Translator from googletrans, which is used to do translations. We also import LANGUAGES from googletrans which lists all supported languages in a Python dictionary.
@@ -66,23 +66,26 @@ Translator is a Google Translate ajax API implementation class. We have to creat
 
 4.	define Function
 
-	val is the destination language
-	key is the abbreviation of language for eg. value = 'hindi', key = 'hi'
-	items get all the languages and its abbreviation from 'LANGUAGE' dictionary that is present in googletrans library  where key = abbrev. & value = language.
-	if val == value then key is returned.
+	val is the destination language
+
+	key is the abbreviation of language for eg. value = 'hindi', key = 'hi'
+
+	items get all the languages and its abbreviation from 'LANGUAGE' dictionary that is present in googletrans library  where key = abbrev. & value = language.
+    
+	if val == value then key is returned.
 
  
 
 5.	select destination language
 
-	the required destination language is selected from the selectbox which contains all the languages present in googletrans library.
-	values get all the languages from the 'LANGUAGE' dictionary.
+	the required destination language is selected from the selectbox which contains all the languages present in googletrans library.
+	values get all the languages from the 'LANGUAGE' dictionary.
 
  
 
 6.	input text in source language
 
-	input text, words and phrases in source language from the user.
+    input text, words and phrases in source language from the user.
 
  
 
@@ -95,13 +98,7 @@ Translator is a Google Translate ajax API implementation class. We have to creat
 
 8.	show result
 
-	to print resulted text, words or phrases in destination language write method is called
-
- 
-
-•	PROJECT CODE:-
-
- 
+	to print resulted text, words or phrases in destination language write method is called
 
  
 
