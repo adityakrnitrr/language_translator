@@ -120,8 +120,6 @@ Translator is a Google Translate ajax API implementation class. We have to creat
 To run this project, we first open command prompt go to the specified directory where our program file "language_translator_NITRR.py" file is stored and used command 'streamlit run'.
  
 
-•	LANGUAGE TRANSLATOR PROJECT OUTPUT :-
-
  
 •	CONCLUSION:-
 
