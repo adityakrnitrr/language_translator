@@ -124,15 +124,3 @@ To run this project, we first open command prompt go to the specified directory 
 •	CONCLUSION:-
 
 This project will be beneficial for students in learning algorithms and programming languages like Python. In this project, a basic approach to translate text, words, and phrases into specific language is described. We have discussed how to translate text to the desired language using Googletrans library. Googletrans library also has the feature to detect the language of the text. We can extend it to the next level by adding some of the algorithms such as speech recognition, speech to text, text to speech, etc. By this project, we are encouraged to practice the API, as well as learn and understand to use it in real-life applications.
-
-•	ACKNOWLEDGEMENT :-
-
-We are greatly indebted to Dr. Mithilesh Atulkar, Associate Professor and Head of the Department of Computer Application, Dr. Naeem Ahmad, Assistant Professor, Dr. Tanmoy Kanti Das, Assistant Professor and entire faculty members of Department of Computer Application, National Institute of Technology Raipur.
-
-•	REFERENCES:-
-
-The name of the books with author described below which I used to make the LANGUAGE TRANSLATOR PROJECT.
-
-[1]. DATA MINING CONCEPTS AND TECHNIQUES – Jiawei Han, Micheline Kamber, Jian Pei
-
-[2]. INTRODUCTION TO DATA MINING – Tan, Kumar Seinbach, Pearson
