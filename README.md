@@ -20,6 +20,8 @@ Application	 		:	Language Translator Web based Application
 Operating System  		:	Windows 10
 Python IDE			:	Spyder IDE
 Command Prompt  		:	MS-DOS
+
+
 •	METHODOLOGY:-
 
 Steps to build the web-based Language Translator application Python project:
@@ -71,7 +73,7 @@ Translator is a Google Translate ajax API implementation class. We have to creat
 	key is the abbreviation of language for eg. value = 'hindi', key = 'hi'
 
 	items get all the languages and its abbreviation from 'LANGUAGE' dictionary that is present in googletrans library  where key = abbrev. & value = language.
-    
+
 	if val == value then key is returned.
 
  
@@ -91,8 +93,8 @@ Translator is a Google Translate ajax API implementation class. We have to creat
 
 7.	translation
 
-	translated = translator is used to create a Translator class object.
-	translate() function generally converts the text in source language to the text in destination language. It contains two arguments, first is source language text and second is destination language in which text is to be translated
+	translator is used to create a Translator class object.
+	translate() function generally converts the text in source language to the text in destination language. It contains two arguments, first is source language text and second is destination language in which text is to be translated
 
  
 
